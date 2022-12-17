@@ -1,0 +1,56 @@
+.handleulpay {
+    display: flex;
+    height: 100%;
+    list-style: none;
+    align-items: center;
+}
+
+.handleulpay li {
+    display: flex;
+    padding: 5px
+}
+.hearder-topbar-inline{
+    display: flex;
+    margin: auto;
+    width: 960px;
+ 
+}
+.hearder-topbar {
+    z-index: 10;
+    width: 100%;
+    background-color: white;
+    box-shadow: rgb(3 18 26 / 20%) 0px 1px 2px;
+    position: fixed;
+}
+
+.line {
+    padding-right: 7px;
+}
+
+.number_select {
+    background-color: #1ba0e2;
+    opacity: 1;
+    border-radius: 50%;
+    color: white;
+    width: 16px;
+    height: 16px;
+    font-size: 10px;
+    font-weight: 900;
+    text-align: center;
+    margin-right: 4px;
+    line-height: 16px;
+}
+
+.number {
+    background-color: #434343;
+    opacity: 1;
+    border-radius: 50%;
+    color: white;
+    width: 16px;
+    height: 16px;
+    font-size: 10px;
+    font-weight: 900;
+    text-align: center;
+    margin-right: 4px;
+    line-height: 16px;
+}
